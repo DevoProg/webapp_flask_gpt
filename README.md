@@ -7,4 +7,6 @@ Trying to make my own webapp deploying the chat gpt API.
 
 I'll put any stuff needed to the instal here.
 
- 
+Poetry 1.8.3
+Tailwind CSS 3.4.4
+
