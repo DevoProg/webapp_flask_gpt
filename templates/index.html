@@ -5,10 +5,14 @@
     <meta charset:"UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GPT_Flask</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='dist/css/style.css') }}">
 </head>
 
 <body>
-    <h1>Page index</h1>
+
+    <h1 class="text-red-500">Page index</h1>
+
+    <script src="{{ url_for('static', filename='dist/js/script.js') }}"></script>
 </body>
 
 </html>
